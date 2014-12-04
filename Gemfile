@@ -46,3 +46,5 @@ gem 'spring',        group: :development
 # gem 'debugger', group: [:development, :test]
 
 gem 'carrierwave'
+gem 'mini_magick'
+gem 'devise'
